@@ -185,14 +185,6 @@ execução.
 
 ## Prints da interface
 
-*(Adicionar aqui capturas de tela da GUI do cliente e da interface web do
-servidor durante a demonstração.)*
+<img width="1027" height="788" alt="image" src="https://github.com/user-attachments/assets/eef0d80b-ec7b-4fbb-84dc-5ac671e8ea29" />
 
-## Prints da organização dos arquivos
-
-*(Adicionar aqui capturas de tela da árvore de diretórios em `storage/`,
-mostrando `audio.{ext}`, `meta.json` e `waveform.png`.)*
-
-## Vídeo demonstrativo
-
-*(Link opcional para vídeo demonstrativo do fluxo completo.)*
+<img width="1807" height="390" alt="image" src="https://github.com/user-attachments/assets/5d00c5ed-de2e-402b-b211-272427dc74d8" />
